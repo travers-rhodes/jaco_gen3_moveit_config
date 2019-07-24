@@ -1,0 +1,10 @@
+controller_list:
+  - name: fake_jaco_gen3_arm_controller
+    joints:
+      - Actuator1
+      - Actuator2
+      - Actuator3
+      - Actuator4
+      - Actuator5
+      - Actuator6
+      - Actuator7
